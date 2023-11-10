@@ -5,6 +5,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-<h3 align="left">Connect with me: **ackayaaslan@gmail.com** </h3>
+<h3 align="left">Contact: ackayaaslan@gmail.com </h3>
 <p align="left">
 </p>
