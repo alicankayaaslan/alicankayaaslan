@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm @alicankayaaslan</h1>
-- 🔭 I’m currently working on **Swift**
 
-- 👀 I’m interested in mobile app development, pyhton.
+- 👀 I’m interested in Mobile app development, Pyhton.
+
+- 🔭 I’m currently working on **Swift**
 
 - 🌱 I’m currently learning **Python**
 
